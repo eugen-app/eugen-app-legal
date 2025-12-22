@@ -5,9 +5,11 @@
 Ответственным лицом в соответствии с Общим регламентом по защите данных (GDPR) является:
 
 Anastasia Saize  
-Feldstr.68
-99326 Stadtilm
-Deutschland
+
+Feldstr.68  
+99326 Stadtilm  
+Deutschland  
+
 E-mail: eugenapp.help@gmail.com
 
 ## 2. Область применения
