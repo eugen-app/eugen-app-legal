@@ -4,10 +4,14 @@ Last updated: 22.12.2025
 ## 1. Controller
 The controller within the meaning of the General Data Protection Regulation (GDPR) is:
 
-Anastasia Saize 
-Feldstr.68
-99326 Stadtilm
-Deutschland
+Anastasia Saize  
+
+Feldstr.68  
+
+99326 Stadtilm  
+
+Deutschland  
+
 E-mail: eugenapp.help@gmail.com
 
 ## 2. Scope
