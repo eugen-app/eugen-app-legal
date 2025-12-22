@@ -5,9 +5,11 @@ Stand: 22.12.2025
 Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO):
 
 Anastasia Saize  
-Feldstr. 68 
-99326 Stadtilm
-Deutschland
+
+Feldstr. 68  
+99326 Stadtilm  
+Deutschland  
+
 E-Mail: eugenapp.help@gmail.com
 
 ## 2. Geltungsbereich
