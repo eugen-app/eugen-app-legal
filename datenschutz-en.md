@@ -7,9 +7,7 @@ The controller within the meaning of the General Data Protection Regulation (GDP
 Anastasia Saize  
 
 Feldstr.68  
-
 99326 Stadtilm  
-
 Deutschland  
 
 E-mail: eugenapp.help@gmail.com
