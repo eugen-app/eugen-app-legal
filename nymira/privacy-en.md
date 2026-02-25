@@ -40,6 +40,6 @@ This Privacy Policy may be updated in the future. Updates will be published with
 
 ## 6. Contact
 
-Developer: Anastasia Saize
-Email: eugenapp.help@gmail.com
+Developer: Anastasia Saize  
+Email: eugenapp.help@gmail.com  
 Address: Feldstr.68 99326 Stadtilm Germany
