@@ -40,6 +40,6 @@ https://policies.google.com/privacy
 
 ## 6. Контакты
 
-Разработчик: Anastasia Saize
-Email: eugenapp.help@gmail.com
+Разработчик: Anastasia Saize  
+Email: eugenapp.help@gmail.com  
 Адрес: Feldstr.68 99326 Stadtilm Deutschland
