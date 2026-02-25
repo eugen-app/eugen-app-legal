@@ -40,6 +40,6 @@ Diese Datenschutzerklärung kann zukünftig aktualisiert werden. Änderungen wer
 
 ## 6. Kontakt
 
-Entwickler: Anastasia Saize
-Email: eugenapp.help@gmail.com
+Entwickler: Anastasia Saize  
+Email: eugenapp.help@gmail.com  
 Adresse: Feldstr.68 99326 Stadtilm Deutschland
